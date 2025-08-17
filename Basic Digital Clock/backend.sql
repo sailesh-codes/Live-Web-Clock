@@ -1,0 +1,7 @@
+CREATE DATABASE clock_db;
+USE clock_db;
+
+CREATE TABLE clock_logs (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    current_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
