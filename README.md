@@ -14,6 +14,6 @@ Auto-sync: Periodically syncs with server to maintain accuracy
 Technologies Used
 
 Frontend: HTML5, CSS3, Vanilla JavaScript
-Backend: PHP 7.4+
+Backend: PHP 7.4
 Styling: Pure CSS with CSS Grid/Flexbox
 AJAX: Fetch API for server communication
